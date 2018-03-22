@@ -1,0 +1,9 @@
+{
+  "itemName" : "madtulip_TS_glitch_2",
+  "rarity" : "Common",
+  "inventoryIcon" : "madtulip_TS_glitch_2_icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "b4 b5 b6 7b 8b 23 34 20 8a 44 69 64 20 79 6f 75 20 72 65 61 6c 6c 79 20 65 78 70 65 63 74 20 61 6e 79 74 68 69 6e 67",
+  "shortdescription" : "Glitch Hull Section B",
+  "materialId" : 55511
+}

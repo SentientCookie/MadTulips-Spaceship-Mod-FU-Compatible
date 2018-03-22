@@ -1,0 +1,16 @@
+{
+  "modId" : 3001,
+  "modName" : "madtulip_MM_floor",
+  "description" : "Some odd Apex floor",
+  "footstepSound" : "/sfx/blocks/footstep_grass.ogg",
+  "grass" : true,
+  "health" : 0,
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "madtulip_MM_floor.png",
+    "variants" : 5,
+    "multiColored" : false,
+    "zLevel" : 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "textureState" : {
+        "default" : "med",
+        "states" : {
+		
+          "low" : {
+            "frames" : 1,
+            "cycle" : 0.5,
+            "mode" : "loop"
+          },
+		  
+          "med" : {
+            "frames" : 4,
+            "cycle" : 1.0,
+            "mode" : "loop"
+          },
+		  
+		  "high" : {
+            "frames" : 3,
+            "cycle" : 1.0,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "FTL" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "textureState" : {
+            "low" : {
+              "properties" : {
+                "image" : "<partImage>:lowPower.<frame>"
+              }
+            },
+
+            "med" : {
+              "properties" : {
+                "image" : "<partImage>:medPower.<frame>"
+              }
+            },
+			
+			"high" : {
+              "properties" : {
+                "image" : "<partImage>:highPower.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

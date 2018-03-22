@@ -1,0 +1,19 @@
+[
+  {
+    "op": "remove",
+    "path": "/interactAction"
+  },
+  {
+    "op": "add",
+    "path": "/scripts",
+    "value": [
+      "/lua/madtulip_is_shipworld.lua",
+      "/lua/madtulip_captainschair.lua"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptDelta",
+    "value": 5
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "objectName" : "madtulip_shipstation",
+  "rarity" : "Rare",
+
+  "interactAction" : "OpenCraftingInterface",
+
+      "interactData" : {
+        "config" : "/interface/windowconfig/shipmaterialprinter.config",
+        "filter" : [ "madtulip_shipstation" ],
+
+        "paneLayoutOverride" : {
+          "windowtitle" : {
+        	"title" : " Ship In A Box Printer",
+     	    "subtitle" : " ^#b9b5b2;Print Pixels into usable ship materials",
+            "icon" : { "file" : "/interface/crafting/roboticcraftingtable.png" }
+            },
+	      "background" : {
+	        "type" : "background",
+  		    "fileHeader" : "/interface/crafting/craftingheader.png",
+  		    "fileBody" : "/interface/crafting/metalformerbody.png",
+   		    "fileFooter" : "/interface/crafting/craftingfooter.png"
+    		}
+           }
+         },
+
+  "description" : "Press Metals into usable ship materials!",
+  "shortdescription" : "Metal Forming Press",
+  "race" : "generic",
+  "category" : "crafting",
+  "printable" : false,
+  "price" : 200,
+
+  "apexDescription" : "A ship station. Useful.",
+  "avianDescription" : "I can use this ship station to make things.",
+  "floranDescription" : "Floran create magic bang bangs!",
+  "glitchDescription" : "Admiration. An extremely advanced ship station.",
+  "humanDescription" : "A ship station. I can create awesome stuff here!",
+  "hylotlDescription" : "This ship station looks decent enough.",
+  "novakidDescription" : "This thing makes trains, I like trains !",
+
+  
+  "inventoryIcon" : "madtulip_metal_forming_station_icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "madtulip_metal_forming_station.png:<color>.<frame>",
+      "imagePosition" : [-24, 0],
+      "frames" : 14,
+      "animationCycle" : 1.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "money", "count" : 200 }
+  ],
+  "output" : {
+    "item" : "madtulip_novakid_ship_comms",
+    "count" : 1
+  },
+  "groups" : [ "madtulip_shipstation", "shipwired" ]
+}

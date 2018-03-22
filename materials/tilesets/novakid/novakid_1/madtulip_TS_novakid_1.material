@@ -1,0 +1,22 @@
+{
+  "materialId" : 55519,
+  "materialName" : "madtulip_TS_novakid_1",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "madtulip_TS_novakid_1",
+  "shortdescription" : "Novakid Hull Section A",
+  "description" : "An novakid hull section, used in most apex star cruisers",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/materials/tilesets/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "madtulip_TS_novakid_1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

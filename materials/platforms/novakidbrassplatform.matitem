@@ -1,0 +1,12 @@
+{
+  "itemName" : "novakidbrassplatform",
+  "rarity" : "Common",
+  "inventoryIcon" : "novakidbrassplatformicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Platform suitable for a ship.",
+  "shortdescription" : "Novakid Brass Platform",
+  "glitchdescription" : "Statement. Ship platform.",
+  "florandescription" : "Ssship platform.",
+
+  "materialId" : 52035
+}

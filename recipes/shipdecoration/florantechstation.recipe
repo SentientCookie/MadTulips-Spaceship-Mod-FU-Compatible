@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "money", "count" : 350 }
+  ],
+  "output" : {
+    "item" : "florantechstation",
+    "count" : 1
+  },
+  "groups" : [ "madtulip_shipstation", "shipdecoration" ]
+}

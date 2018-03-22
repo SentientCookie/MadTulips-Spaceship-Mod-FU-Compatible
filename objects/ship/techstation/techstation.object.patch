@@ -1,0 +1,27 @@
+[ 
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+	"value": "Apex S.A.I.L Interface"
+  },
+  {
+    "op": "remove",
+    "path": "/scripts"
+  },
+  {
+    "op": "remove",
+    "path": "/scriptDelta"
+  },
+  {
+    "op": "remove",
+    "path": "/shipPetType"
+  },
+  {
+    "op": "remove",
+    "path": "/spawnOffset"
+  },
+  {
+    "op": "remove",
+    "path": "/uniqueId"
+  }
+]

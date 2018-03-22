@@ -1,0 +1,23 @@
+{
+  "frameGrid" : {
+    "size" : [104, 56],
+    "dimensions" : [9, 1],
+    "names" : [
+      [ "idle.0", "idle.1", "idle.2", "idle.3", "med.0", "med.1", "high.0", "high.1", "high.2" ]
+    ]
+  },
+  "aliases" : {
+	"default.default" : "idle.0",
+	"default.low" : "idle.0",
+	"default.med" : "idle.0",
+	"default.high" : "high.0",
+	"lowPower.1" : "idle.0",
+	"medPower.1" : "idle.0",
+	"medPower.2" : "idle.1",
+	"medPower.3" : "idle.2",
+	"medPower.4" : "idle.3",
+	"highPower.1" : "high.0",
+	"highPower.2" : "high.1",
+	"highPower.3" : "high.2"
+  }
+}

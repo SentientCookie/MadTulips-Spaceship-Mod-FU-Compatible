@@ -1,0 +1,9 @@
+{
+  "itemName" : "madtulip_TS_glitch_1",
+  "rarity" : "Common",
+  "inventoryIcon" : "madtulip_TS_glitch_1_icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "I remember having a glitch with this glitchy tileset based in a glitch environment near the glitch area of the glitchy glitchyness!",
+  "shortdescription" : "Glitch Hull Section A",
+  "materialId" : 55510
+}

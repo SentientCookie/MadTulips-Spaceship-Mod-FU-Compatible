@@ -1,0 +1,22 @@
+{
+  "materialId" : 55505,
+  "materialName" : "madtulip_TS_avian_2",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "madtulip_TS_avian_2",
+  "shortdescription" : "Avian Hull Section B",
+  "description" : "QUACK QUACK QUACK!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/materials/tilesets/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "madtulip_TS_avian_2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

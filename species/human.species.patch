@@ -1,0 +1,20 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuitback"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuitchest"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuithead"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuitlegs"} },
+	
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"miab_basestore_receiver"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"miab_basestore_console"} },
+	
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humanshiplight"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humanquestconsole"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humancaptainschair"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humanfuelhatch"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humanshipdoor"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humanshiplocker"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"humantechstation"} },
+	
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_TS_glass"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_TS_human_1"} }
+]

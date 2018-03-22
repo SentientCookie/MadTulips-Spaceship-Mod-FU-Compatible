@@ -1,0 +1,9 @@
+{
+  "itemName" : "madtulip_TS_human_1",
+  "rarity" : "Common",
+  "inventoryIcon" : "madtulip_TS_human_1_icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "An human hull section, used in most apex star cruisers",
+  "shortdescription" : "Human Hull Section A",
+  "materialId" : 55513
+}

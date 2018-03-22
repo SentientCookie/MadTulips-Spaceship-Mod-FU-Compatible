@@ -1,0 +1,23 @@
+{
+  "materialId" : 52029,
+  "materialName" : "avianshipplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "avianshipplatform",
+  "shortdescription" : "Avian Ship Platform",
+  "description" : "Platform suitable for a ship.",
+  "glitchDescription" : "Delighted. These platforms have been finely polished.",
+  "floranDescription" : "Platformss made from metal.",
+  "novakidDescription" : "Some ornate lookin' metal platforms.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "avianshipplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

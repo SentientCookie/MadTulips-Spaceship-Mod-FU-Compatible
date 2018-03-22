@@ -1,0 +1,9 @@
+{
+  "itemName" : "madtulip_TS_apex_1",
+  "rarity" : "Common",
+  "inventoryIcon" : "madtulip_TS_apex_1_icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "The 'Cutting Edge' Tileset",
+  "shortdescription" : "Apex Hull Section A",
+  "materialId" : 55501
+}
