@@ -1,0 +1,16 @@
+{
+  "name" : "madtulip_jetpack",
+  "type" : "legs",
+
+  "scripts" : ["madtulip_jetpack.lua"],
+  "animator" : "madtulip_jetpack.animation",
+
+  "description" : "A Space Jetpack to navigate in space.",
+  "shortDescription" : "Space Jetpack",
+  "rarity" : "Legendary",
+  "icon" : "/tech/madtulip_jetpack.png",
+
+  "chipCost" : 8,
+
+  "boostPower" : 100
+}

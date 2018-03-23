@@ -4,6 +4,16 @@
     "path": "/starterTreasure/0/1/fill/-",
     "value": {
       "item": [
+        "madtulip_jetpack_unlocker",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/starterTreasure/0/1/fill/-",
+    "value": {
+      "item": [
         "madtulip_shipstation",
         1
       ]
@@ -18,4 +28,5 @@
         1
       ]
     }
+  }
 ]
