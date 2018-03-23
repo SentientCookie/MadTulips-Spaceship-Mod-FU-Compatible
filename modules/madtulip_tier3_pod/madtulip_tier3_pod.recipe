@@ -1,14 +1,13 @@
 {
   "input" : [
-	{ "item" : "madtulip_tier_titanium_plating_1", "count" : 10 },
-	{ "item" : "madtulip_tier_titanium_plating_2", "count" : 5 },
-	{ "item" : "madtulip_polymer", "count" : 20 },
-	{ "item" : "madtulip_ic_logic", "count" : 10 },
+    { "item" : "tungstenbar", "count" : 30 },
+    { "item" : "titaniumbar", "count" : 10 },
+    { "item" : "siliconboard", "count" : 5 },
 	{ "item" : "money", "count" : 750 }
   ],
   "output" : {
     "item" : "madtulip_tier3_pod",
     "count" : 1
   },
-  "groups" : [ "madtulip_shipstation", "all", "modules" ]
+  "groups" : [ "blueprintstation" ]
 }

@@ -7,5 +7,5 @@
     "item" : "madtulip_tier1_pod",
     "count" : 1
   },
-  "groups" : [ "madtulip_shipstation", "all", "modules" ]
+  "groups" : [ "blueprintstation" ]
 }
