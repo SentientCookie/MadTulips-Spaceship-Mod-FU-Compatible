@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "essence", "count" : 250 }
+  ],
+  "output" : {
+    "item" : "glitchblueprintbox",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "blueprintstation" ]
+}
