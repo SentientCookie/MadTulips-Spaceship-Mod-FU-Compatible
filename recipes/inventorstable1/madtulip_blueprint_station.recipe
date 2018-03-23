@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "essence", "count" : 400 }
+    { "item" : "money", "count" : 1000 }
   ],
   "output" : {
     "item" : "madtulip_blueprint_station",

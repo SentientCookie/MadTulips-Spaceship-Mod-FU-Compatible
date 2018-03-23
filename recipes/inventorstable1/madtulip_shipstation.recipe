@@ -1,12 +1,11 @@
 {
   "input" : [
-   { "item" : "ironbar", "count" : 10 },
-   { "item" : "copperbar", "count" : 5 }
+    { "item" : "money", "count" : 500 }
   ],
   "output" : {
     "item" : "madtulip_shipstation",
     "count" : 1
   },
   "duration" : 5,
-  "groups" : [ "inventorstable", "craftingstations", "all" ]
+  "groups" : [ "blueprintstation" ]
 }
