@@ -1,7 +1,7 @@
 {
   "id" : "madtulip_acquire_jetpack",
   "title" : "Acquire A Suitable Space Suit Supply",
-  "text" : "I should accquire a ^orange;Spacesuit Backpack^white; in case the ^red; Life Support System^white; ever fails me. Additionally i require a ^orange;Spacesuit Helm, Chest and Legs^white; if i want to ^green;work on my spaceship from the outside^white;. All those things should be craftable once i find an ^green; anvil^white;.",
+  "text" : "I should accquire a ^orange;Spacesuit Backpack^white; in case the ^red; Life Support System^white; ever fails me. Additionally i require a ^orange;Spacesuit Helm, Chest and Legs^white; if i want to ^green;work on my spaceship from the outside^white;.",
   "completionText" : "Now that the^green; full Spacesuit^white; is acquired, i can fire up the ^orange;Space Jetpack Tech^white; (has just been equiped) ^red;outside ^white;of my spaceship and start working on it.",
   "moneyRange" : [50, 50],
   "rewards" : [],
