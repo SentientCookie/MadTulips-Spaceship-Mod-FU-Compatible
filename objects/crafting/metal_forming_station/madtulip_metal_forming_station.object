@@ -2,26 +2,26 @@
   "objectName" : "madtulip_shipstation",
   "colonyTags" : [],
   "printable" : false,
-  "rarity" : "Rare",
+  "rarity" : "Legendary",
   "interactAction" : "OpenCraftingInterface",
-      "interactData" : {
-        "config" : "/interface/windowconfig/shipmaterialprinter.config",
-        "filter" : [ "madtulip_shipstation" ],
-        "paneLayoutOverride" : {
-          "windowtitle" : {
-        	"title" : " Ship In A Box Printer",
-     	    "subtitle" : " ^#b9b5b2;Print Pixels into usable ship materials",
-            "icon" : { "file" : "/interface/crafting/roboticcraftingtable.png" }
-            },
-	      "background" : {
-	        "type" : "background",
-  		    "fileHeader" : "/interface/crafting/craftingheader.png",
-  		    "fileBody" : "/interface/crafting/metalformerbody.png",
-   		    "fileFooter" : "/interface/crafting/craftingfooter.png"
-    		}
-           }
-         },
-
+  "interactData" : {
+    "config" : "/interface/windowconfig/shipmaterialprinter.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Ship In A Box Printer",
+        "subtitle" : " ^#b9b5b2;Print Pixels into usable ship materials",
+        "icon" : { "file" : "/interface/crafting/roboticcraftingtable.png" }
+        },
+	    "background" : {
+	      "type" : "background",
+  		  "fileHeader" : "/interface/crafting/craftingheader.png",
+  		  "fileBody" : "/interface/crafting/metalformerbody.png",
+   		  "fileFooter" : "/interface/crafting/craftingfooter.png"
+    	  }
+        },
+    "requiresBlueprint" : false,
+	"filter" : [ "madtulip_shipstation" ]
+    },
   "description" : "Press Metals into usable ship materials!",
   "shortdescription" : "Metal Forming Press",
   "race" : "generic",
