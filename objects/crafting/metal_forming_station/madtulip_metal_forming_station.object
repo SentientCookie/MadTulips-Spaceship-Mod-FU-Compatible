@@ -1,13 +1,12 @@
 {
   "objectName" : "madtulip_shipstation",
+  "colonyTags" : [],
+  "printable" : false,
   "rarity" : "Rare",
-
   "interactAction" : "OpenCraftingInterface",
-
       "interactData" : {
         "config" : "/interface/windowconfig/shipmaterialprinter.config",
         "filter" : [ "madtulip_shipstation" ],
-
         "paneLayoutOverride" : {
           "windowtitle" : {
         	"title" : " Ship In A Box Printer",
@@ -27,7 +26,6 @@
   "shortdescription" : "Metal Forming Press",
   "race" : "generic",
   "category" : "crafting",
-  "printable" : false,
   "price" : 200,
 
   "apexDescription" : "A ship station. Useful.",
