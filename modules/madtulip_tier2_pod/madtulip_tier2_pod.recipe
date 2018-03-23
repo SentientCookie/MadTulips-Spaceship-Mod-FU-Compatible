@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "ironbar", "count" : 30 },
     { "item" : "tungstenbar", "count" : 10 },
-	{ "item" : "money", "count" : 400 }
+	{ "item" : "money", "count" : 500 }
   ],
   "output" : {
     "item" : "madtulip_tier2_pod",

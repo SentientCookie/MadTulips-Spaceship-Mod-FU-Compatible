@@ -1,8 +1,5 @@
 {
   "input" : [
-    { "item" : "madtulip_polymer", "count" : 2 },
-	{ "item" : "madtulip_tier_titanium_plating_1", "count" : 1 },
-	{ "item" : "madtulip_tier_titanium_plating_2", "count" : 1 },
 	{ "item" : "money", "count" : 300 }
   ],
   "output" : {
