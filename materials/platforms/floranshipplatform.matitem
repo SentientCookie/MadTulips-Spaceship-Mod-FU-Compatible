@@ -1,0 +1,12 @@
+{
+  "itemName" : "floranshipplatform",
+  "rarity" : "Common",
+  "inventoryIcon" : "floranshipplatformicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Platform suitable for a ship.",
+  "shortdescription" : "Floran Ship Platform",
+  "glitchdescription" : "Statement. Ship platform.",
+  "florandescription" : "Ssship platform.",
+
+  "materialId" : 52030
+}

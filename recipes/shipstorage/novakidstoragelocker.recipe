@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 560 }
+  ],
+  "output" : {
+    "item" : "novakidstoragelocker",
+    "count" : 1
+  },
+  "groups" : [ "madtulip_shipstation", "shipstorage" ]
+}

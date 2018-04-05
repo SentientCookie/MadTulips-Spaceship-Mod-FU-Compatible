@@ -1,0 +1,12 @@
+{
+  "itemName" : "novakidcyanplatform",
+  "rarity" : "Common",
+  "inventoryIcon" : "novakidcyanplatformicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Platform suitable for a ship.",
+  "shortdescription" : "Novakid Cyan Platform",
+  "glitchdescription" : "Statement. Ship platform.",
+  "florandescription" : "Ssship platform.",
+
+  "materialId" : 52037
+}

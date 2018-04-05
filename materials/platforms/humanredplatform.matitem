@@ -1,0 +1,12 @@
+{
+  "itemName" : "humanredplatform",
+  "rarity" : "Common",
+  "inventoryIcon" : "humanredplatformicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Platform suitable for a ship.",
+  "shortdescription" : "Human Red Platform",
+  "glitchdescription" : "Statement. Ship platform.",
+  "florandescription" : "Ssship platform.",
+
+  "materialId" : 52033
+}

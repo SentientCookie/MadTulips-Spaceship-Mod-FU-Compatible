@@ -1,0 +1,9 @@
+{
+  "itemName" : "madtulip_TS_avian_1",
+  "rarity" : "Common",
+  "inventoryIcon" : "madtulip_TS_avian_1_icon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Flap your wings like an overweight bird, and fly!",
+  "shortdescription" : "Avian Hull Section A",
+  "materialId" : 55504
+}

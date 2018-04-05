@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "money", "count" : 200 }
+  ],
+  "output" : {
+    "item" : "madtulip_human_ship_comms",
+    "count" : 1
+  },
+  "groups" : [ "madtulip_shipstation", "shipwired" ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "money", "count" : 200 }
+  ],
+  "output" : {
+    "item" : "florancaptainschair",
+    "count" : 1
+  },
+  "groups" : [ "madtulip_shipstation", "shipdecoration" ]
+}

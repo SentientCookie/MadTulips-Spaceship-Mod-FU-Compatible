@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "money", "count" : 50 }
+  ],
+  "output" : {
+    "item" : "madtulip_miningstoragelocker",
+    "count" : 1
+  },
+  "groups" : [ "madtulip_shipstation", "shipstorage" ]
+}

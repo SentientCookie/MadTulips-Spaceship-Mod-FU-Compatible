@@ -1,0 +1,12 @@
+{
+  "itemName" : "hylotlshipplatform",
+  "rarity" : "Common",
+  "inventoryIcon" : "hylotlshipplatformicon.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Platform suitable for a ship.",
+  "shortdescription" : "Hylotl Ship Platform",
+  "glitchdescription" : "Statement. Ship platform.",
+  "florandescription" : "Ssship platform.",
+
+  "materialId" : 52034
+}

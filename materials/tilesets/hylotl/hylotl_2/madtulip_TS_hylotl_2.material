@@ -1,0 +1,22 @@
+{
+  "materialId" : 55517,
+  "materialName" : "madtulip_TS_hylotl_2",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "madtulip_TS_hylotl_2",
+  "shortdescription" : "Hylotl Hull Section B",
+  "description" : "An alternate hylotl hull section, frequently used in apex star cruisers",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/materials/tilesets/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "madtulip_TS_hylotl_2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "materialId" : 55510,
+  "materialName" : "madtulip_TS_glitch_1",
+  "particleColor" : [194, 194, 194, 255],
+  "itemDrop" : "madtulip_TS_glitch_1",
+  "shortdescription" : "Glitch Hull Section A",
+  "description" : "I do not want to type out that description again! UUUGGHHGHGHGHGGHHH!",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "drawBackground" : true,
+  "health" : 10,
+  "category": "materials",
+
+  "renderTemplate" : "/materials/tilesets/tile_connection.config",
+  "renderParameters" : {
+    "texture" : "madtulip_TS_glitch_1.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 10
+  }
+}
