@@ -1,9 +1,0 @@
-{
-  "itemName" : "madtulip_TS_floran_1",
-  "rarity" : "Common",
-  "inventoryIcon" : "madtulip_TS_floran_1_icon.png",
-  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
-  "description" : "Whoever before me wrote this description put 'An Floran' *smack*",
-  "shortdescription" : "Floran Hull Section A",
-  "materialId" : 55507
-}

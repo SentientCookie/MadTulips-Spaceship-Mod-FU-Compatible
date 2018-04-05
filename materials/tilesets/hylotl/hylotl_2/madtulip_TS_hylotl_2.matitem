@@ -1,9 +1,0 @@
-{
-  "itemName" : "madtulip_TS_hylotl_2",
-  "rarity" : "Common",
-  "inventoryIcon" : "madtulip_TS_hylotl_2_icon.png",
-  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
-  "description" : "An alternate hylotl hull section, frequently used in apex star cruisers",
-  "shortdescription" : "Hylotl Hull Section B",
-  "materialId" : 55517
-}
