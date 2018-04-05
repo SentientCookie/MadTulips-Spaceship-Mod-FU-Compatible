@@ -1,0 +1,7 @@
+[
+		// NOT FULLY IMPLEMENTED YET:
+		//{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_ship_assembler"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_blueprint_station"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"LOVESTATUE"}},
+		{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_metal_forming_station"}}
+]

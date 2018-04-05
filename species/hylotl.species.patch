@@ -1,0 +1,20 @@
+[
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuitback"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuitchest"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuithead"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"spacesuitlegs"} },
+	
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"miab_basestore_receiver"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"miab_basestore_console"} },
+	
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotlshiplight"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotlquestconsole"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotlcaptainschair"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotlfuelhatch"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotlshipdoor"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotlshiplocker"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"hylotltechstation"} },
+	
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_TS_glass"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"madtulip_TS_hylotl_1"} }
+]
